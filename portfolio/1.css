@@ -1,0 +1,156 @@
+*{
+    background-color: black;
+}
+
+
+#Home h1
+{
+    font-family: 'Playfair Display', serif;
+    font-size: 64px;
+    color: #fff!important;
+}
+#Home p{
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+    font-size: 15px;
+    color: #fff!important;
+}
+
+#About h2{
+    font-family: "Montserrat", sans-serif;
+    color:#f1f1f1!important;
+}
+#About p{
+   color: #757575!important;
+   margin: 15px 0px;
+
+}
+#About hr
+{
+    color: whitesmoke;
+}
+#About h3{
+    font-family: "Montserrat", sans-serif;
+    color: white;
+}
+ul a{
+    opacity:0.5;
+}
+ul a:hover{
+    opacity: 1;
+}
+[title="hh"]
+{
+    color: #f1f1f1;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 50px;
+}
+[title="gg"]
+{
+    color: #fff!important;
+    background-color: #616161!important;
+    text-align: center;
+    padding: 20px;
+    margin: 20;
+    font-size:xx-large;
+}
+[title="cc"]
+{
+    text-align: center;
+    color:  #616161!important;
+    font-size: 15px;
+    padding: 16px;
+    font-family: "Montserrat", sans-serif;
+
+}
+[title="k"]
+{
+    font-size: 24px;
+    margin: 10px 0px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    font-family: "Montserrat", sans-serif;
+
+}
+[title="g"]
+{
+    margin: 0px 16px 0px 0px;
+}
+[title="p1"]
+{
+    color: #757575!important;
+    font-size: 20px;
+    padding: 5px;
+    font-family: "Montserrat", sans-serif;
+}
+[title="p2"]
+{
+    color: #757575!important;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+   
+}
+[title="ph"]
+{
+    color: #f1f1f1!important;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 10px 0;
+}
+
+#Photo hr
+{
+    width: 25%;
+    color: whitesmoke;
+}
+#Contact h2
+{
+    color:#f1f1f1!important;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 132px;
+    font-size: 30px;
+}
+#Contact hr
+{
+    width: 25%;
+    margin-top: 20px;
+    color: whitesmoke;
+}
+#Contact 
+{
+    color: #807676!important;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+}
+#Contact svg
+{
+    margin-right: 50px;
+    margin-top: 20px;
+}
+#Contact input
+{
+    background-color: white;
+    border: none;
+}
+#Contact button
+{
+    margin-left: 50px;
+    padding: 5px;
+}
+.footer svg
+{
+    opacity: 0.5;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.footer svg:hover{
+    opacity: 1;
+}
+#About ul
+{
+    opacity: 0.5;
+}
+#About ul:hover
+{
+    opacity: 1;
+}
